@@ -1,7 +1,0 @@
-com\brinks\web\config\SwaggerConfig.class
-com\brinks\web\BankStatementInvoicePortalApplication.class
-com\brinks\web\controllers\InvoiceController.class
-com\brinks\web\services\InvoiceService.class
-com\brinks\web\models\InvoiceStatus.class
-com\brinks\web\repositories\InvoiceStatusRepository.class
-com\brinks\web\services\impl\InvoiceServiceImpl.class
